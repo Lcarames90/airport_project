@@ -1,4 +1,4 @@
-Date,Hour,MIA Central-E,MIA Central-FA-Upper,MIA Central-FB-Lower,MIA Central-G,MIA North 1,MIA North 2,MIA North 3,MIA North 4,MIA North FIS,MIA North-E,MIA South-H,MIA South-J1,MIA South-J2
+Date,Hour,Central_E,Central_FA_Upper,Central_FB_Lower,Central_G,North_1,North_2,North_3,North_4,North_FIS,North_E,South_H,South_J1,South_J2
 2018-12-30,00:00:00,,,,,,35.0,,,,,,248.0,
 2018-12-30,01:00:00,,,,,,25.0,,,,,,265.0,
 2018-12-30,02:00:00,,78.0,,,,28.0,,,,,,208.0,

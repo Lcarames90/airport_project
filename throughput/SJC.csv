@@ -1,4 +1,4 @@
-Date,Hour,SJC FIS,SJC Terminal A,SJC Terminal B North
+Date,Hour,FIS,T_A,T_B_North
 2018-12-30,03:00:00,,35.0,
 2018-12-30,04:00:00,,240.0,180.0
 2018-12-30,05:00:00,,581.0,952.0

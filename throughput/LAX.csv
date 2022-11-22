@@ -1,4 +1,4 @@
-Date,Hour,LAX Suites,LAX TBIT MSC - Passenger,LAX TBIT Main Checkpoint,LAX Terminal 1 - Passenger,LAX Terminal 1.5 – Passenger,LAX Terminal 2 - Passenger,LAX Terminal 3 - Passenger,LAX Terminal 4 - FIS,LAX Terminal 4 - Passenger,LAX Terminal 4A - Passenger,LAX Terminal 5 - Passenger,LAX Terminal 5A - Passenger,LAX Terminal 6 - Passenger,LAX Terminal 7 - Passenger
+Date,Hour,Suites,TBIT_MSC_Passenger,TBIT_Main_CHECK,T_1Passenger,T_1.5Passenger,T_2Passenger,T_3Passenger,T_4FIS,T_4Passenger,T_4APassenger,T_5Passenger,T_5APassenger,T_6Passenger, T_7Passenger
 2018-12-30,00:00:00,,,367.0,,,,46.0,,,28.0,26.0,,4.0,62.0
 2018-12-30,01:00:00,,,11.0,,,,,,,,,,,
 2018-12-30,03:00:00,,,,142.0,,,,,,110.0,26.0,,79.0,117.0

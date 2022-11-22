@@ -1,4 +1,4 @@
-Date,Hour,SFO Employee Security Checkpoint D,SFO Employee Security Checkpoint F,SFO Security Checkpoint A,SFO Security Checkpoint B,SFO Security Checkpoint C,SFO Security Checkpoint D,SFO Security Checkpoint F-1,SFO Security Checkpoint F-3,SFO Security Checkpoint G
+Date,Hour,Employee_D,Employee_F,CHECK_A,CHECK_B,CHECK_C,CHECK_D,CHECK_F_1,CHECK_F_3,CHECK_G
 2018-12-30,00:00:00,,,33.0,126.0,11.0,89.0,44.0,,15.0
 2018-12-30,01:00:00,,,3.0,,,,,,4.0
 2018-12-30,03:00:00,,,,,,74.0,121.0,,

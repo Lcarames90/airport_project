@@ -1,4 +1,4 @@
-Date,Hour,SEA Central Checkpoint,SEA Charlie Checkpoint,SEA FIS Checkpoint,SEA North Checkpoint,SEA Offsite Checkpoint,SEA SCP  IAF,SEA SCP 1,SEA SCP 2,SEA SCP 3,SEA SCP 4,SEA SCP 5,SEA SCP IAF,SEA South Checkpoint
+Date,Hour,Central_CHECK,Charlie_CHECK,FIS_CHECK,North_CHECK,Offsite_C,SCP_IAF,SCP_1,SCP_2,SCP_3,SCP_4,SCP_5,SCP_IAF2,S_CHECK
 2018-12-30,00:00:00,50.0,,,,,,,,,,,,
 2018-12-30,01:00:00,12.0,,,,,,,,,,,,
 2018-12-30,02:00:00,110.0,,,,,,,,,,,,

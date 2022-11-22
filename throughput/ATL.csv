@@ -1,4 +1,4 @@
-Date,Hour,ATL E Concourse Checkpoint,ATL F Arrival Checkpoint,ATL F Departure Checkpoint,ATL Main Checkpoint,ATL New T North Checkpoint,ATL T South Checkpoint
+Date,Hour,ATL_E_Concourse,ATL_F_Arrival,ATL_F_Departure,ATL_Main,ATL_New_T_North,ATL_T_South
 2018-12-30,00:00:00,,,,11.0,,
 2018-12-30,01:00:00,,,,14.0,,
 2018-12-30,02:00:00,,,,10.0,,

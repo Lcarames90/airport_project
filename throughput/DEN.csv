@@ -1,4 +1,4 @@
-Date,Hour,DEN A Bridge,DEN Airside-AC,DEN Airside-B,DEN North,DEN South
+Date,Hour,A_Bridge,Airside_AC,Airside-B,North,South
 2018-12-30,00:00:00,,,,,123.0
 2018-12-30,01:00:00,,,,,52.0
 2018-12-30,02:00:00,,,,,19.0

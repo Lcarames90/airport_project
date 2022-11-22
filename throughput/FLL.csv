@@ -1,4 +1,4 @@
-Date,Hour,FLL Checkpoint D,FLL Checkpoint E,FLL Checkpoint F,FLL Checkpoint G,FLL T1 Central,FLL T1 Checkpoint,FLL T2 Checkpoint,FLL T3E Checkpoint,FLL T3F Checkpoint,FLL T4 Checkpoint
+Date,Hour,CHECK_D,CHECK_E,CHECK_F,CHECK_G,T1_Central,T1_Checkpoint,T2_Checkpoint,T3E_CHECK,T3F_CHECK,T4_CHECK
 2018-12-30,00:00:00,,,,,0.0,,,,,
 2018-12-30,01:00:00,,,,,147.0,,,,,
 2018-12-30,03:00:00,,,,,396.0,,,,,
